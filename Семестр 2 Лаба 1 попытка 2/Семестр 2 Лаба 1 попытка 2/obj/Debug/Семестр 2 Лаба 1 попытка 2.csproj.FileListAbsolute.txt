@@ -1,0 +1,31 @@
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\bin\Debug\Семестр 2 Лаба 1 попытка 2.exe.config
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\bin\Debug\Семестр 2 Лаба 1 попытка 2.exe
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\bin\Debug\Семестр 2 Лаба 1 попытка 2.pdb
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр 2 Лаба 1 попытка 2.csprojAssemblyReference.cache
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр_2_Лаба_1_попытка_2.Form1.resources
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр_2_Лаба_1_попытка_2.Properties.Resources.resources
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр 2 Лаба 1 попытка 2.csproj.GenerateResource.cache
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр 2 Лаба 1 попытка 2.csproj.CoreCompileInputs.cache
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр 2 Лаба 1 попытка 2.exe
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр 2 Лаба 1 попытка 2.pdb
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр_2_Лаба_1_попытка_2.FormTask1.resources
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр_2_Лаба_1_попытка_2.FormInputColor.resources
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр_2_Лаба_1_попытка_2.FormTask1Help.resources
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр_2_Лаба_1_попытка_2.FormTask2.resources
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр_2_Лаба_1_попытка_2.FormTask3.resources
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\bin\Debug\Семестр 2 Лаба 1 попытка 2.exe.config
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\bin\Debug\Семестр 2 Лаба 1 попытка 2.exe
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\bin\Debug\Семестр 2 Лаба 1 попытка 2.pdb
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр 2 Лаба 1 попытка 2.csproj.AssemblyReference.cache
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр 2 Лаба 1 попытка 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр_2_Лаба_1_попытка_2.Form1.resources
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр_2_Лаба_1_попытка_2.FormInputColor.resources
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр_2_Лаба_1_попытка_2.FormTask1.resources
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр_2_Лаба_1_попытка_2.FormTask1Help.resources
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр_2_Лаба_1_попытка_2.FormTask2.resources
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр_2_Лаба_1_попытка_2.FormTask3.resources
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр_2_Лаба_1_попытка_2.Properties.Resources.resources
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр 2 Лаба 1 попытка 2.csproj.GenerateResource.cache
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр 2 Лаба 1 попытка 2.csproj.CoreCompileInputs.cache
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр 2 Лаба 1 попытка 2.exe
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 1 попытка 2\Семестр 2 Лаба 1 попытка 2\obj\Debug\Семестр 2 Лаба 1 попытка 2.pdb
